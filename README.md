@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KSW%20HUB&fontSize=90&fontAlign=50&desc=since%202000&descAlign=65&descAlignY=65)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KSW%20HUB&fontSize=90&fontAlign=50&desc=since%202000&descAlign=62&descAlignY=62)
 
 
 <!--
