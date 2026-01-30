@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KSW%20HUB&fontSize=90&fontAlign=50&desc=since%202000&descAlign=68&descAlignY=64)
+![header](https://capsule-render.vercel.app/api?type=waving&color=EDE574,100:E1F5C4&height=300&section=header&text=KSW%20HUB&fontSize=90&fontAlign=50&desc=since%202000&descAlign=68&descAlignY=64)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
